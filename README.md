@@ -29,6 +29,12 @@ Su rol es presentar criterio profesional, lenguaje de trabajo y forma de razonam
 - casos seleccionados y deliberadamente recortados
 - vocabulario profesional seguro
 
+## Que justifica este repo publicamente
+
+- dejar dos o tres criterios de lectura que sean realmente utiles
+- mostrar casos breves con analisis suficiente para aprender algo concreto
+- demostrar calidad de razonamiento, no solo framing
+
 ## Que no conviene mostrar aca
 
 - taxonomias extensas

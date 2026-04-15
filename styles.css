@@ -178,6 +178,13 @@ h1 {
   line-height: 1.7;
 }
 
+.card ul {
+  margin: 12px 0 0;
+  padding-left: 18px;
+  color: var(--muted);
+  line-height: 1.75;
+}
+
 .label {
   display: inline-block;
   margin-bottom: 10px;
