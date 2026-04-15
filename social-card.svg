@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="LAALT Auditor Guide Public">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="100%" stop-color="#10182a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#c4b5fd" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="110" r="180" fill="#7dd3fc" opacity="0.08"/>
+  <circle cx="120" cy="540" r="200" fill="#c4b5fd" opacity="0.08"/>
+  <rect x="70" y="72" width="1060" height="486" rx="28" fill="#0d1324" stroke="#33435e"/>
+  <rect x="110" y="118" width="240" height="34" rx="17" fill="#102538" stroke="#386b86"/>
+  <text x="130" y="140" fill="#7dd3fc" font-size="18" font-family="Manrope, Arial, sans-serif">CAPA PEDAGOGICA PUBLICA</text>
+  <text x="110" y="230" fill="#f8fbff" font-size="60" font-weight="700" font-family="Manrope, Arial, sans-serif">LAALT Auditor Guide Public</text>
+  <text x="110" y="290" fill="#d6e2f5" font-size="30" font-family="Manrope, Arial, sans-serif">Aprender a leer hallazgos con criterio legal-tecnico.</text>
+  <text x="110" y="352" fill="#98a4bb" font-size="24" font-family="Manrope, Arial, sans-serif">Guia publica recortada para explicar razonamiento, lenguaje</text>
+  <text x="110" y="388" fill="#98a4bb" font-size="24" font-family="Manrope, Arial, sans-serif">y valor profesional sin revelar el metodo privado completo.</text>
+  <rect x="110" y="450" width="322" height="54" rx="14" fill="url(#glow)"/>
+  <text x="142" y="485" fill="#051823" font-size="24" font-weight="700" font-family="Manrope, Arial, sans-serif">Pensamiento y posicionamiento</text>
+</svg>
