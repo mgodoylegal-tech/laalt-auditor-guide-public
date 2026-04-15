@@ -67,32 +67,35 @@ const criteria = [
 const cases = [
   {
     label: "Caso",
-    title: "Lenguaje tecnico que todavia no se vuelve decision",
+    title: "Un acceso privilegiado existe, pero nadie explica por que sigue activo",
     description:
-      "Ejemplo breve sobre como un hallazgo puede estar bien descrito tecnicamente y aun asi ser inutil para direccion si no se traduce bien.",
+      "El problema no es solo que exista el acceso. El problema es que no aparece una justificacion visible sobre necesidad, revision ni permanencia.",
     points: [
-      "Lectura: falta pasar del dato tecnico al problema de gestion.",
-      "Pregunta de cierre: quien necesita entender esto y para decidir que.",
+      "Lectura: el hallazgo revela una brecha de supervision, no solo una configuracion cuestionable.",
+      "Lo que cambia la calidad del analisis: preguntar quien revisa, con que frecuencia y bajo que criterio de continuidad.",
+      "Pregunta de cierre: que evidencia mostraria que ese acceso sigue siendo razonable hoy.",
     ],
   },
   {
     label: "Caso",
-    title: "Evidencia suficiente pero seguimiento difuso",
+    title: "La evidencia del problema existe, pero el cierre no tiene conductor",
     description:
-      "Caso sintetico para mostrar que la calidad de la prueba no resuelve sola el problema si nadie conduce el cierre.",
+      "Hay registros, capturas o validaciones suficientes para sostener el hallazgo. Aun asi, nadie puede decir con claridad quien conduce el cierre y como se medira el avance.",
     points: [
-      "Lectura: la evidencia existe, pero el seguimiento no tiene conductor visible.",
-      "Pregunta de cierre: que condicion concreta mostraria avance real.",
+      "Lectura: evidencia y remediacion son planos distintos; una buena prueba no reemplaza un buen seguimiento.",
+      "Lo que cambia la calidad del analisis: distinguir entre demostrar el problema y gobernar su correccion.",
+      "Pregunta de cierre: que condicion concreta, con owner y fecha, mostraria avance real.",
     ],
   },
   {
     label: "Caso",
-    title: "Exposicion sensible con impacto de negocio",
+    title: "La falla tecnica parece acotada, pero su efecto operativo no lo es",
     description:
-      "Caso publico de alto nivel pensado para mostrar cruce entre hallazgo, impacto organizacional y necesidad de respuesta.",
+      "Una observacion tecnica puede parecer menor en aislamiento, pero volverse relevante cuando afecta continuidad, tiempos de respuesta o capacidad de investigacion.",
     points: [
-      "Lectura: el punto central no es solo la falla, sino su efecto operacional.",
-      "Pregunta de cierre: que area debe asumir respuesta y en que plazo.",
+      "Lectura: el punto central no es la falla en si misma, sino la fragilidad organizacional que deja expuesta.",
+      "Lo que cambia la calidad del analisis: traducir el hallazgo a impacto de operacion, supervision o respuesta.",
+      "Pregunta de cierre: que area debe asumir respuesta primero y que urgencia tiene hacerlo.",
     ],
   },
 ]
