@@ -15,7 +15,7 @@
     label: "Lenguaje",
     title: "Conceptos publicos para explicar mejor un hallazgo",
     description:
-      "Introduce un vocabulario de trabajo seguro para portfolio, sin replicar la estructura interna del metodo privado.",
+      "Introduce un vocabulario de trabajo claro para explicar hallazgos en un formato introductorio y ordenado.",
   },
 ]
 

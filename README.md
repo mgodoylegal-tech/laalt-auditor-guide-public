@@ -1,10 +1,10 @@
 ﻿# LAALT Auditor Guide Public
 
-> Guia publica recortada para mostrar pensamiento de auditoria legal-tecnica sin exponer el metodo privado completo.
+> Guia publica recortada para mostrar pensamiento de auditoria legal-tecnica, lenguaje profesional y lectura de hallazgos en un formato introductorio.
 
 Este repositorio funciona como la capa pedagogica publica del ecosistema LAALT.
 
-No es la sede canonica del sistema, no reemplaza al core privado y no publica el entrenamiento completo. Su rol es mostrar criterio profesional, lenguaje de trabajo y forma de razonamiento en un nivel alto, seguro y util para portfolio.
+Su rol es mostrar criterio profesional, lenguaje de trabajo y forma de razonamiento en un nivel alto, claro y util como guia introductoria.
 
 ## Enlaces publicos
 
@@ -31,31 +31,24 @@ No es la sede canonica del sistema, no reemplaza al core privado y no publica el
 
 ## Que no conviene mostrar aca
 
-- taxonomia completa del sistema privado
-- matriz completa de traduccion
-- flujo canonico completo
+- taxonomias extensas
+- matrices de trabajo completas
+- flujos canonicos completos
 - plantillas completas
 - prompts internos
 - scoring sensible
-- rutas, modulos o equivalencias uno-a-uno con el sistema privado
-- secuencias de entrenamiento que permitan reconstruir el core
+- rutas o modulos internos detallados
+- secuencias de entrenamiento cerradas
 
 ## Criterio editorial
 
-Este repo debe ser util pero incompleto por diseño.
+Este repo debe ser util, claro y facil de recorrer como introduccion.
 
 Debe ayudar a entender:
 
 - como se piensa un hallazgo mas alla de lo tecnico
 - como se formula una lectura profesional de alto nivel
 - por que existe una capa legal-tecnica de interpretacion
-
-No debe ayudar a reconstruir:
-
-- la arquitectura completa del metodo
-- la instrumentacion privada
-- la jerarquia doctrinal canonica
-- los recorridos reales del sistema interno
 
 ## Uso local
 
@@ -71,4 +64,4 @@ Este repo incluye workflow de GitHub Pages para desplegar el sitio estatico desd
 
 ## Nota editorial
 
-Si una seccion empieza a parecer una clase completa del sistema privado, ya deja de ser publica en sentido prudente y debe recortarse.
+Si una seccion deja de ser introductoria y empieza a volverse demasiado extensa o especifica, conviene resumirla o dejarla fuera.
