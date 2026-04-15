@@ -6,6 +6,12 @@ Este repositorio funciona como la capa pedagogica publica del ecosistema LAALT.
 
 No es la sede canonica del sistema, no reemplaza al core privado y no publica el entrenamiento completo. Su rol es mostrar criterio profesional, lenguaje de trabajo y forma de razonamiento en un nivel alto, seguro y util para portfolio.
 
+## Enlaces publicos
+
+- Sitio: `https://mgodoylegal-tech.github.io/laalt-auditor-guide-public/`
+- Contexto general del ecosistema: `https://mgodoylegal-tech.github.io/laalt-overview/`
+- Demo visual publica: `https://mgodoylegal-tech.github.io/laalt-mini-lab-public/`
+
 ## Rol dentro del ecosistema
 
 | Repositorio | Rol publico o privado |
@@ -59,6 +65,10 @@ Abrir `index.html` con Live Server o servir la carpeta como sitio estatico.
 npx serve .
 ```
 
+## Publicacion
+
+Este repo incluye workflow de GitHub Pages para desplegar el sitio estatico desde la rama `main`.
+
 ## Nota editorial
 
-Si una seccion empieza a parecer una clase completa del sistema privado, ya dejo de ser publica en sentido prudente y debe recortarse.
+Si una seccion empieza a parecer una clase completa del sistema privado, ya deja de ser publica en sentido prudente y debe recortarse.
