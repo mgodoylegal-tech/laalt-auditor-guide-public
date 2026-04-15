@@ -1,10 +1,10 @@
 ﻿# LAALT Auditor Guide Public
 
-> Guia publica recortada para mostrar pensamiento de auditoria legal-tecnica, lenguaje profesional y lectura de hallazgos en un formato introductorio.
+> Guia publica recortada para presentar pensamiento de auditoria legal-tecnica, lenguaje profesional y lectura de hallazgos en un formato introductorio.
 
 Este repositorio funciona como la capa pedagogica publica del ecosistema LAALT.
 
-Su rol es mostrar criterio profesional, lenguaje de trabajo y forma de razonamiento en un nivel alto, claro y util como guia introductoria.
+Su rol es presentar criterio profesional, lenguaje de trabajo y forma de razonamiento en un nivel alto, claro y util como guia introductoria.
 
 ## Enlaces publicos
 
@@ -16,7 +16,7 @@ Su rol es mostrar criterio profesional, lenguaje de trabajo y forma de razonamie
 
 | Repositorio | Rol publico o privado |
 | --- | --- |
-| `laalt-auditor-guide-public` | Guia publica recortada |
+| `laalt-auditor-guide-public` | Guia publica introductoria |
 | `laalt-mini-lab-public` | Demo visual publica |
 | `laalt-overview` | Capa de contexto general |
 | `cyber-audit-core-lab` | Nucleo metodologico privado |
@@ -24,7 +24,7 @@ Su rol es mostrar criterio profesional, lenguaje de trabajo y forma de razonamie
 ## Que conviene mostrar aca
 
 - rol del auditor legal-tecnico
-- modelos mentales de alto nivel
+- criterios de lectura de alto nivel
 - criterios generales de lectura de hallazgos
 - casos seleccionados y deliberadamente recortados
 - vocabulario profesional seguro
